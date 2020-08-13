@@ -1,0 +1,35 @@
+{
+  "name": "express-actions",
+  "version": "1.0.0",
+  "description": "Build a modified version of a actions that proxies its inputs from request parameters, and proxies its exits through the response.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChechaValerii/express-actions.git"
+  },
+  "keywords": [
+    "express",
+    "actions",
+    "controllers",
+    "routes",
+    "architecture",
+    "starter",
+    "rest",
+    "restapi",
+    "api"
+  ],
+  "author": "ChechaValerii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChechaValerii/express-actions/issues"
+  },
+  "homepage": "https://github.com/ChechaValerii/express-actions#readme",
+  "devDependencies": {
+    "eslint": "^7.6.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0"
+  }
+}
