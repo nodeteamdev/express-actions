@@ -27,6 +27,10 @@
     "url": "https://github.com/ChechaValerii/express-actions/issues"
   },
   "homepage": "https://github.com/ChechaValerii/express-actions#readme",
+  "dependencies": {
+    "glob": "^7.1.6",
+    "lodash": "^4.17.19"
+  },
   "devDependencies": {
     "eslint": "^7.6.0",
     "eslint-config-airbnb-base": "^14.2.0",
